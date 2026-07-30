@@ -28,12 +28,12 @@ A full-stack airline booking system built as a learning/demo project:
 
 ## Features
 
-- 🔍 **Flight search** by route, date, and cabin class (Economy / Business / First)
-- 🧾 **Multi-passenger booking** with live per-cabin seat availability and pricing
-- 🎫 **Booking reference lookup**, cancellation (seats are released back to inventory)
-- 🔐 **JWT authentication** — register / login, bookings linked to accounts
-- 🌱 **Auto-seeded data** — sample airports, aircraft, flights, and an admin user on first run
-- 🐳 **One-command Docker Compose** setup for the full stack
+- **Flight search** by route, date, and cabin class (Economy / Business / First)
+- **Multi-passenger booking** with live per-cabin seat availability and pricing
+- **Booking reference lookup**, cancellation (seats are released back to inventory)
+- **JWT authentication** — register / login, bookings linked to accounts
+- **Auto-seeded data** — sample airports, aircraft, flights, and an admin user on first run
+- **One-command Docker Compose** setup for the full stack
 
 ## Tech stack
 
@@ -160,9 +160,3 @@ the API in Development mode.
 - [ ] Unit/integration tests (xUnit for API, React Testing Library for frontend)
 - [ ] Rate limiting and stricter input validation
 - [ ] CI pipeline (GitHub Actions) for build/test on PRs
-
-Contributions welcome — open an issue or PR.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
