@@ -1,4 +1,4 @@
-# ✈️ Skyward Air — Airline Booking System
+# Skyward Air — Airline Booking System
 
 A full-stack airline booking system built as a learning/demo project:
 
