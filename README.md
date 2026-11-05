@@ -4,12 +4,6 @@ A full-stack airline booking system built as a learning/demo project:
 
 **React** (frontend) · **ASP.NET Core 8 Web API** (backend) · **PostgreSQL** (database)
 
-![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green)
-
 ---
 
 ## Contents
