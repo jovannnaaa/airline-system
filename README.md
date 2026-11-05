@@ -1,6 +1,6 @@
 # Skyward Air — Airline Booking System
 
-A full-stack airline booking system.
+A full-stack airline booking system
 
 ## Contents
 
