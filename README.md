@@ -1,10 +1,6 @@
 # Skyward Air — Airline Booking System
 
-A full-stack airline booking system built as a learning/demo project:
-
-**React** (frontend) · **ASP.NET Core 8 Web API** (backend) · **PostgreSQL** (database)
-
----
+A full-stack airline booking system.
 
 ## Contents
 
